@@ -1,0 +1,5 @@
+leo,action,180
+hridayam,romance,210
+charlie,romance,170
+Bro Daddy,comedy,190
+Dia,romance,205
